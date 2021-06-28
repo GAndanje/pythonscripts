@@ -216,3 +216,40 @@ runfile('/Users/evelynebushuru/Desktop/git/listnonpyfilesindir.py', wdir='/Users
 runfile('/Users/evelynebushuru/.spyder-py3/listnonpyfilesindir.py', wdir='/Users/evelynebushuru/.spyder-py3')
 runfile('/Users/evelynebushuru/Desktop/git/listnonpyfilesindir.py', wdir='/Users/evelynebushuru/Desktop/git')
 runfile('/Users/evelynebushuru/.spyder-py3/listnonpyfilesindir.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Wed Jun  9 14:17:13 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/threenumsum.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Fri Jun 11 11:38:59 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/insertionSort.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Fri Jun 11 15:49:45 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/threenumsum.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/insertionSort.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/threenumsum.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/insertionSort.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/threenumsum.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Sun Jun 13 13:09:41 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/untitled0.py', wdir='/Users/evelynebushuru/.spyder-py3')
+debugfile('/Users/evelynebushuru/.spyder-py3/untitled0.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Fri Jun 18 11:04:50 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/untitled1.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Sun Jun 20 12:24:30 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/untitled1.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Tue Jun 22 10:01:18 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/untitled2.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Sun Jun 27 09:54:46 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/untitled0.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/untitled1.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/untitled2.py', wdir='/Users/evelynebushuru/.spyder-py3')
+
+## ---(Mon Jun 28 15:39:39 2021)---
+runfile('/Users/evelynebushuru/.spyder-py3/untitled3.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/SLL.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/ceasarcypherEncrytption.py', wdir='/Users/evelynebushuru/.spyder-py3')
+runfile('/Users/evelynebushuru/.spyder-py3/threenumsum.py', wdir='/Users/evelynebushuru/.spyder-py3')
